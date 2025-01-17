@@ -1,4 +1,3 @@
-. (join-path  $PSScriptRoot ".."  ".koksmat" "pwsh" "koksmat.ps1")
 
 Push-Location
 try {
